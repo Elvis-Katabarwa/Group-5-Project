@@ -1,4 +1,13 @@
 body {
   background-color: #e4d7c7;
-  flex: auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+img {
+  border-radius: 8px;
+}
+
+a {
+  text-decoration: none;
 }
