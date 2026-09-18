@@ -1,4 +1,26 @@
 body {
   background-color: #e4d7c7;
-  flex: auto;
+  font-family: Arial, sans-serif;
+}
+
+.main_holder{
+  display: flex;
+  flex-direction: column;
+  max-width: 300px;
+  background-color: #fff;
+  border-radius: 10px;
+}
+
+img{
+  width: 100%;
+  border-radius: 10px 10px 0 0;
+}
+
+.details{
+  padding: 10px;
+}
+
+a{
+  text-decoration: none;
+  color: #967751;
 }
