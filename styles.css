@@ -1,0 +1,27 @@
+body {
+font-family: Arial, sans-serif;
+background: #e4d7c7;
+display: flex;
+gap: 30px;
+}
+
+.main_holder{
+    background-color: #f5f5f5;
+    max-width: 300px;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+img{
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+}
+.details{
+    padding: 10px;
+}
+
+a{
+    text-decoration: none;
+    color: #b39066;
+}
